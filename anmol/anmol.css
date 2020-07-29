@@ -18,11 +18,10 @@ div{
 }
 #center {
   display: block;
-  height:900px;
+  height:450px;
   width:500px;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
   border : white solid 5px;
 }
 #ss{
