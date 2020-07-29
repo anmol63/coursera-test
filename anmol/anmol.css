@@ -1,0 +1,46 @@
+body{
+	background-color: brown;
+}
+h1{
+	font-weight: bold;
+	text-align: center;
+	font-size: 40px;
+	background-color: black;
+	border : black 5px;
+	border-style: dashed;
+	margin-left: 450px;
+	width: 400px;
+	color: yellow;
+}
+div{
+
+	height:900px;
+}
+.center {
+  display: block;
+  height:900px;
+  width:500px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#ss{
+	background-color: brown;
+	margin-left: auto;
+    margin-right: auto;
+	height :200px;
+	width: 1000px;
+
+}
+p
+{
+	color:yellow;
+	font-weight: bold;
+	font-size: 32px;
+}
+h2{
+	color: white;
+	font-weight: bold;
+	font-size: 32px;
+	text-align: center;
+}
