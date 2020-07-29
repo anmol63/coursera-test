@@ -23,6 +23,7 @@ div{
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  border : white dashed 5px;
 }
 #ss{
 	background-color: brown;
