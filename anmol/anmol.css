@@ -18,11 +18,12 @@ div{
 }
 #center {
   display: block;
-  height:450px;
+  height:900px;
   width:500px;
   margin-left: auto;
   margin-right: auto;
-  border : white solid 5px;
+  width : 50%;
+  border : black solid 10px;
 }
 #ss{
 	background-color: brown;
